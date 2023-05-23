@@ -1,5 +1,3 @@
-# Project DSX
-
 <p align="center">
   <a href="https://github.com/SamJD261/ProjectDSX/releases">
     <img src="https://img.shields.io/github/v/release/SamJD261/ProjectDSX?style=plastic" />
@@ -21,6 +19,7 @@
   </a>
 </p>
 
+# Project DSX
 
 An economy bot for Discord
 
